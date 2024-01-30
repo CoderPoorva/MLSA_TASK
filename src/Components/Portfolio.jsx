@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/pic3.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Desk with colors";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "E-Commerce Website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Fresh Groceries at your doorstep. A website that allows you to order groceries online and get them delivered to your doorstep.",
+    url: "grocery-poorva.pages.dev/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Tic Tac Toe Game",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Let's play Tic Tac Toe! A simple game of Tic Tac Toe created using HTML, CSS and JavaScript.",
+    url: "https://github.com/CoderPoorva/Tic-Tac-Toe",
   },
   {
-    title: "My Resume Site",
+    title: "Cyber Crime-Data Visualization",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Data Visualization of Cyber Crime in India.",
+    url: "https://github.com/CoderPoorva/Data-Visualisation",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Patterns in Java",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Patterns in Java.",
+    url: "https://github.com/CoderPoorva/Patterns-in-Java",
   },
 ];
 
